@@ -16,7 +16,7 @@ Matplotlib (for visualizations)
 
 ## Setup Instructions-
 1) Clone this repository to your local machine.
-git clone https://github.com/suchika01raturi/car-price-predictor.git
+git clone https://github.com/suchika01raturi/CarPrice.git
 
 2) Install the necessary dependencies.
 pip install -r requirements.txt
