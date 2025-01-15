@@ -8,10 +8,10 @@ User Input Interface: Built a GUI using Tkinter to allow users to input car deta
 Accuracy: The model has been trained and evaluated with real-world data for optimal accuracy.
 
 ## Technologies Used-
-Python
-scikit-learn (for machine learning)
-Tkinter (for GUI development)
-Pandas, NumPy (for data manipulation)
+Python<br>
+scikit-learn (for machine learning)<br>
+Tkinter (for GUI development)<br>
+Pandas, NumPy (for data manipulation)<br>
 Matplotlib (for visualizations)
 
 ## Setup Instructions-
@@ -27,8 +27,8 @@ python car_price_predictor.py
 4) Use the Tkinter GUI to input car details and get the predicted price.
 
 ## Project Structure-
-car_price_predictor.py: Main script containing the model and GUI.
-car data.csv: Dataset used for training the model.
+car_price_predictor.py: Main script containing the model and GUI.<br>
+car data.csv: Dataset used for training the model.<br>
 README.md: This file.
 
 ## Contributing
